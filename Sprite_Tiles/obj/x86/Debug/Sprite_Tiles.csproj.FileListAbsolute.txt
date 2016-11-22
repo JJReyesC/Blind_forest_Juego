@@ -1,0 +1,73 @@
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\bg.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\bg2.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\bg3.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\bg_pres.jpg
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\boss1.gif
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\boss2.gif
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\lvl1.txt
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\lvl2.txt
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\lvl3.txt
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_1.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_2.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_3.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_311.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_4.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_411.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_5.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_511.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_6.png
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\muestra.txt
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\personaje.gif
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\salto.wav
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\thresh.jpg
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\ARCADECLASSIC.TTF
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\C.xnb
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\lk.xnb
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\VB.xnb
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Game1.exe
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Game1.pdb
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\tuto.txt
+C:\Users\Juan\AppData\Local\Temporary Projects\Game1\bin\WindowsGL\Debug\Content\mosaico_7.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_7.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\tuto.txt
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\personaje.gif
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\bg.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\bg2.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\bg3.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\bg_pres.jpg
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\boss1.gif
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\boss2.gif
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\lvl1.txt
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\lvl2.txt
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\lvl3.txt
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_1.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_2.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_3.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_311.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_4.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_411.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_5.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_511.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\mosaico_6.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\muestra.txt
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\salto.wav
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\ARCADECLASSIC.TTF
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\C.xnb
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\lk.xnb
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\VB.xnb
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Sprite_Tiles.exe
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Sprite_Tiles.pdb
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\obj\x86\Debug\Sprite_Tiles.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\obj\x86\Debug\Sprite_Tiles.exe
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\obj\x86\Debug\Sprite_Tiles.pdb
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\ctrl_0.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\ctrl_1.png
+C:\Users\Juan\Documents\Visual Studio 2010\Projects\Sprite_Tiles\Sprite_Tiles\bin\WindowsGL\Debug\Content\ctrl_2.png
